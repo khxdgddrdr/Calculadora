@@ -1,0 +1,65 @@
+body {
+    font-family: Arial;
+    background-color: #37df83;
+    
+}
+            
+.index {
+    font-size: 130%;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 10px solid #088517;
+    border-radius: 5px;
+}
+            
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+            
+input[type="number"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+            
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #088517;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+            
+#resultado {
+    margin-top: 20px;
+    font-weight: bold;
+}
+        
+#calc {
+    font-family: fantasy;
+
+
+}
+
+#cap{
+    font-family: fantasy;
+
+
+}
+
+#taxaa {
+    font-family: fantasy;
+
+
+}
+
+#temp {
+    font-family: fantasy;
+
+}
+
